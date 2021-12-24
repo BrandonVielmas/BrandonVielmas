@@ -1,31 +1,23 @@
 ### Hi there 👋
 
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
-
-
-<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
-</em></p>
-
+<!-- agg imagen -->
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   code: [Javascript, HTML, CSS, C#, VB.NET, PHP],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         js: ["React"],
+         css: ["Bootstrap"]
       },
       backEnd: {
-         java: ["Spring"],
          js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+         csharp: ["Asp.net Core"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      databases: ["mySQL", "SQLServer"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: ["Systems Engineer.
+   I am currently working as a .NET developer. I am looking for new opportunities and to continue developing as a professional."],
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
